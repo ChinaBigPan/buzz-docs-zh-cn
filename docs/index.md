@@ -11,7 +11,7 @@ meta:
   - name: keywords
     content: audio, 音频
   - name: feversion
-    content: v 1.2.1
+    content: v 1.2.1 →
   - name: fetags
     content: "[{'kind': 'html', 'text': '浏览器'}, {'kind':'audio', 'text': '音频'}]"
 features:
