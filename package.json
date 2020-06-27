@@ -1,0 +1,17 @@
+{
+  "name": "buzz-docs-zh-cn",
+  "version": "1.2.1",
+  "description": "Buzz.js 中文文档",
+  "main": "index.js",
+  "author": "大笑 <daguogxp@qq.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "less": "^3.11.3",
+    "node-less": "^1.0.0"
+  }
+}
