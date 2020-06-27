@@ -3,7 +3,7 @@ home: true
 heroImage: /images/logo.png
 heroText: Buzz.js
 tagline: audio 音频操作库
-actionText: v 1.2.1
+actionText: v 1.2.1 →
 actionLink: /routes/
 meta:
   - name: description
@@ -11,7 +11,7 @@ meta:
   - name: keywords
     content: audio, 音频
   - name: feversion
-    content: v 1.2.1 →
+    content: v 1.2.1
   - name: fetags
     content: "[{'kind': 'html', 'text': '浏览器'}, {'kind':'audio', 'text': '音频'}]"
 features:
