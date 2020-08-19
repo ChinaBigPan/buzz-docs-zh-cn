@@ -7,13 +7,13 @@ actionText: v 1.2.1 →
 actionLink: /routes/
 meta:
   - name: description
-    content: Buzz 是一个小型的 JavaScript 库，它利用 HTML5 的 `<audio>`标签，可以助力您轻松地在网站中引入和管理声音。兼容非现代浏览器。
+    content: Buzz 是一个小型的 JavaScript 库，它利用 HTML5 的<audio>标签，可以助力您轻松地在网站中引入和管理声音。兼容非现代浏览器。
   - name: keywords
     content: audio, 音频
   - name: feversion
     content: v 1.2.1
   - name: fetags
-    content: "[{'kind': 'html', 'text': '浏览器'}, {'kind':'audio', 'text': '音频'}]"
+    content: "[{'kind': 'iconhtml', 'text': '浏览器'}, {'kind':'iconaudio', 'text': '音频'}]"
 features:
   - title: 体积小
     details: gzip 后 < 1kb
