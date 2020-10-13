@@ -2,7 +2,11 @@
 title: Buzz
 ---
 
+<febeacon />
+
 # Buzz
+
+[英文原地址](https://github.com/jaysalvat/buzz)
 
 ## 构造器
 
